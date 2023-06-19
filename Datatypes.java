@@ -63,6 +63,8 @@ public class Datatypes{
 
 
 		System.out.println(gravityOfEarth);
+		System.out.println(grade);
+		System.out.println(size);
 
 
 
